@@ -8,8 +8,6 @@ targets:
     type: application
     platform: iOS
     sources: [.]
-    info:
-      path: DotifyClone/Info.plist
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.yourname.dotifyclone
