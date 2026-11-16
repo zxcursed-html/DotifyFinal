@@ -7,7 +7,7 @@ targets:
   DotifyClone:
     type: application
     platform: iOS
-    sources: [DotifyClone]
+    sources: [.]
     info:
       path: DotifyClone/Info.plist
     settings:
